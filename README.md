@@ -23,4 +23,4 @@
 
 ### Let's Connect!
 
-LinkedIn: <a href="https://www.linkedin.com/in/josh-gagle-11966720b/" target="_blank">Josh Gagle</a> | Website: <a href="https://gfraba.github.io/JoshGaglePortfolio/" target="_blank">My | Portfolio</a> | Email: <a href="mailto:joshua.gagle@gmail.com" target="_blank">joshua.gagle@gmail.com</a>
+LinkedIn: <a href="https://www.linkedin.com/in/josh-gagle-11966720b/" target="_blank">Josh Gagle</a> | Website: <a href="https://gfraba.github.io/JoshGaglePortfolio/" target="_blank">Portfolio</a> | Email: <a href="mailto:joshua.gagle@gmail.com" target="_blank">joshua.gagle@gmail.com</a>
